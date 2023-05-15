@@ -1,0 +1,8 @@
+0 1Step
+1 2Steps
+2 3Steps
+3 Backward
+4 Forward
+5 Left
+6 Right
+7 Stop
